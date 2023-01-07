@@ -1,1 +1,1 @@
-Beispieldatei fuer den SolarLintCheck
+## Beispieldatei fuer den SolarLintCheck
