@@ -6,3 +6,5 @@ Mit Aenderungen cf. der fetch-Anweisung.
 
 Dies sind Aenderungen, die ausschließlich im Branch 20230107UzK ausgeführt werden. /LU
 ##ÄNDERUNG für newbranch
+
+## Master-Datei Änderungen - z.B. durch andere Entwickler
