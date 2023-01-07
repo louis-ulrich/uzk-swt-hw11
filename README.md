@@ -1,4 +1,4 @@
-##Ueberschrift fuer Solar 
+## Ueberschrift fuer Solar 
 
 Dies ist eine Testdatei fuer eine Abgabe HW11 der Universitaet zu Koeln.
 
